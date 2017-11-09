@@ -1,9 +1,0 @@
-[submodule "devicetypes/twack"]
-	path = devicetypes/twack
-	url = https://github.com/twack/smartthings-devices.git
-[submodule "smartapps/twack1"]
-	path = smartapps/twack1
-	url = https://github.com/twack/smarthings-apps.git
-[submodule "smartapps/twack2"]
-	path = smartapps/twack2
-	url = https://github.com/twack/smartthings-apps.git
